@@ -1,5 +1,6 @@
 public class Hello{
     public static void main(String[] args){
         System.out.println("Hi,Arjun How Are You ?");
+        System.out.println("Goin Somewhere ?");
     }
 }
